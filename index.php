@@ -17,7 +17,7 @@
                data:"amt="+amt+"&name="+name,
                success:function(result){
                    var options = {
-                        "key": "rzp_test_KNJ70LnzT6Q3Bm", 
+                        "key": "", 
                         "amount": amt*100, 
                         "currency": "INR",
                         "name": "sikindra",
